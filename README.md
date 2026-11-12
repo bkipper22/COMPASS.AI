@@ -69,7 +69,7 @@ Reduzir essa dificuldade por meio de uma plataforma que combina inteligência ar
 ### 1. Clonar o repositório
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/bkipper22/COMPASS.AI.git
 cd COMPASS.AI
 ```
 
@@ -152,3 +152,4 @@ O projeto é um protótipo demonstrativo e não substitui os canais oficiais de 
 O COMPASS.AI demonstra uma primeira implementação da proposta de utilizar inteligência artificial para facilitar a identificação e a organização de demandas relacionadas aos serviços públicos.
 
 ---
+
